@@ -38,6 +38,11 @@ translator_pro/
 ├── run_api.py               # API启动脚本
 └── requirements.txt         # 依赖列表
 ```
+## 模型下载
+在开始前先去下载好模型，放到同目录下的models文件夹中
+通过网盘分享的文件：models.zip
+链接: https://pan.baidu.com/s/1eEnSZx5xP4JdL8bX-yf9Fw 提取码: z4wj 
+--来自百度网盘超级会员v6的分享
 
 ## 🚀 快速开始
 
